@@ -15,8 +15,13 @@
 - Notebook 03: created `accidents` table via `sql/01_create_tables.sql`
 - Loaded 20,000 rows via SQLAlchemy (chunked, method='multi')
 - Indexes: state, city, datetime, severity, cause
-- Verified: row count, festival breakdown, KPI sanity check 
-## Phase 4 - SQL Analysis 
+- Verified: row count, festival breakdown, KPI sanity check
+
+## Phase 4 — SQL Analysis 
+- sql/02_kpi_queries.sql, 03_trend_analysis.sql, 04_hotspot_analysis.sql, 05_severity_drivers.sql
+- Notebook 04: 15 queries covering KPIs, trends, hotspots, drivers
+- Findings captured in docs/insights_report.md
+
 ## Phase 5 - EDA Visualizations 
 ## Phase 6 - Export for BI + Excel 
 ## Phase 7 - Power BI Dashboard 
