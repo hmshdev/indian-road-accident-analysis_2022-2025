@@ -146,3 +146,12 @@ Urban / Rural / Highway - all ~6,600 accidents, avg casualties 1.72–1.73.
 ## Data Notes
 - Behavioral causes (distraction, speeding, etc.) and road types are **uniformly distributed** - likely synthetic or artificially balanced
 - Avg risk score (0.44) is stable across most dimensions - **weather + visibility are the only meaningful differentiators**
+
+---
+
+##  Visualizations
+All charts in `images/`. Key visuals:
+- `02_risk_by_hour.png` — Risk peaks at 8–10 AM & 17–19 PM (~0.60)
+- `05_weather_risk.png` — Fog (0.59) >> Rain (0.49) >> Clear (0.24)
+- `06_visibility_risk.png` — Low visibility (0.59) >> High (0.24)
+- `08_hour_day_heatmap.png` — Accidents evenly spread across week

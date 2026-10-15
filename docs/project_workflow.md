@@ -22,7 +22,13 @@
 - Notebook 04: 15 queries covering KPIs, trends, hotspots, drivers
 - Findings captured in docs/insights_report.md
 
-## Phase 5 - EDA Visualizations 
+## Phase 5 — EDA Visualizations 
+- Notebook 05: 10 charts saved to images/
+  01_hourly, 02_risk_by_hour, 03_dayofweek, 04_severity, 05_weather_risk,
+  06_visibility_risk, 07_states, 08_hour_day_heatmap, 09_cause, 10_monthly
+- Visuals confirm SQL findings (visibility + weather = top risk drivers)
+
+
 ## Phase 6 - Export for BI + Excel 
 ## Phase 7 - Power BI Dashboard 
 ## Phase 8 - Docs & Insights 
