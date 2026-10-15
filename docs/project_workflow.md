@@ -29,6 +29,12 @@
 - Visuals confirm SQL findings (visibility + weather = top risk drivers)
 
 
-## Phase 6 - Export for BI + Excel 
+## Phase 6 — Export for BI + Excel ✅
+- Notebook 06:
+  - data/exports/accidents_pbi.csv (Power BI feed, ~29 cols)
+  - data/exports/kpi_summary.xlsx (8 sheets: KPIs, State, City, Cause, Weather, Visibility, Hour, Severity)
+- Ready for Power BI Desktop and stakeholder delivery
+
+
 ## Phase 7 - Power BI Dashboard 
 ## Phase 8 - Docs & Insights 
